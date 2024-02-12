@@ -4,7 +4,7 @@ Data Analysis of Store Using Microsoft Excel.
 I am very excited to share my Microsoft Excel Project.
 
 # Project Objective:-
- store aims to create an sales report from year 2020-2023 to understand customer behaviour and enhance sales in next year.
+ Store aims to create an sales report from year 2020-2023 to understand customer behaviour and enhance sales in next year.
 
 
 # Key Skills Learned :-
