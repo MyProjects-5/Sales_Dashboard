@@ -1,4 +1,4 @@
-# Sales Dashboard of store from year 2020 to 2023
+# Sales Dashboard of Store from year 2020 to 2023
 Data Analysis of Store Using Microsoft Excel.    
 
 I am very excited to share my Microsoft Excel Project.
