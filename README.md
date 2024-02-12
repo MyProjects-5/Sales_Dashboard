@@ -17,11 +17,11 @@ I am very excited to share my Microsoft Excel Project.
 
 
 # Key Insights :-
-The top 3 states contributing to sales are California, New York, Texas.  
-The sales are high in the month of November,September.    
-In the category of technology phones are contributed the most to sales.    
-The Count of customers in 2020 was 595 and which is increased to 693 in the year 2023.     
-In the Field of technology the store getting the highest sales in the every year.     
+*The top 3 states contributing to sales are California, New York, Texas.  
+*The sales are high in the month of November,September.    
+*In the category of technology phones are contributed the most to sales.    
+*The Count of customers in 2020 was 595 and which is increased to 693 in the year 2023.     
+*In the Field of technology the store getting the highest sales in the every year.     
 
 
 
