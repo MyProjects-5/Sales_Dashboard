@@ -4,7 +4,6 @@ I am very excited to share my Microsoft Excel Project.
 ## Project Objective :-
  Store aims to create an sales report from year 2020-2023 to understand customer behaviour and enhance sales in next year.
 
-
 ### 📌 Key Skills Learned :-   
 - Data Cleaning.   
 - High level data analysis in MS Excel.   
@@ -13,7 +12,6 @@ I am very excited to share my Microsoft Excel Project.
 - Identifying business problem using Excel.   
 - Creating Excel Dashboards with various visuals.      
 
-
 ### 📌 Key Insights :-
 * The top 3 states contributing to sales are California, New York, Texas.  
 * The sales are high in the month of November,September.    
@@ -21,13 +19,10 @@ I am very excited to share my Microsoft Excel Project.
 * The Count of customers in 2020 was 595 and which is increased to 693 in the year 2023.     
 * In the Field of technology the store getting the highest sales in the every year.     
 
-
-
 ## The Conclusion of the Analysis :-
 - Focus more on technological field from the state like California, New York, Texas for marketing.    
 - Implementing distinct sales, advertisements and coupons during the month of February could prove beneficial in boosting sales and enhancing customer engagement.     
 - Improve order status for better customer satisfaction and efficiency.    
-
 
 ## Screenshot of the Analysis :-
 ![Screenshot 2024-02-10 011842](https://github.com/MyProjects-5/Sales_Dashboard/assets/140932670/44b7a8d9-3292-4309-8548-53fef23ff761)
