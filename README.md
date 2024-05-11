@@ -23,7 +23,7 @@ I am very excited to share my Microsoft Excel Project.
 
 
 
-## The conclusion of the analysis is :-
+## The Conclusion of the Analysis :-
 - Focus more on technological field from the state like California, New York, Texas for marketing.    
 - Implementing distinct sales, advertisements and coupons during the month of February could prove beneficial in boosting sales and enhancing customer engagement.     
 - Improve order status for better customer satisfaction and efficiency.    
