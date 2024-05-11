@@ -1,7 +1,7 @@
 # Sales Dashboard of Store from year 2020 to 2023
 I am very excited to share my Microsoft Excel Project.
 
-## Project Objective :-
+## Project Objective:-
  Store aims to create an sales report from year 2020-2023 to understand customer behaviour and enhance sales in next year.
 
 
