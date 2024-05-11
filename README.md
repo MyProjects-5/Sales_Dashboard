@@ -1,22 +1,20 @@
 # Sales Dashboard of Store from year 2020 to 2023
-Data Analysis of Store Using Microsoft Excel.    
-
 I am very excited to share my Microsoft Excel Project.
 
-# Project Objective:-
+## Project Objective:-
  Store aims to create an sales report from year 2020-2023 to understand customer behaviour and enhance sales in next year.
 
 
-# Key Skills Learned :-
-| -Data Cleaning.   
-| -High level data analysis in MS Excel.   
-| -Building and sharing interactive Excel Dashboards.   
-| -Visualizing data with charts in MS Excel.   
-| -Identifying business problem using Excel.   
-| -Creating Excel Dashboards with various visuals.      
+### 📌 Key Skills Learned :-   
+- Data Cleaning.   
+- High level data analysis in MS Excel.   
+- Building and sharing interactive Excel Dashboards.   
+- Visualizing data with charts in MS Excel.   
+- Identifying business problem using Excel.   
+- Creating Excel Dashboards with various visuals.      
 
 
-# Key Insights :-
+### 📌 Key Insights :-
 *The top 3 states contributing to sales are California, New York, Texas.  
 *The sales are high in the month of November,September.    
 *In the category of technology phones are contributed the most to sales.    
