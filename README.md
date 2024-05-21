@@ -24,6 +24,9 @@ I am very excited to share my Microsoft Excel Project.
 - Implementing distinct sales, advertisements and coupons during the month of February could prove beneficial in boosting sales and enhancing customer engagement.     
 - Improve order status for better customer satisfaction and efficiency.    
 
+## DashBoard Vedio :-
+https://github.com/MyProjects-5/Super_Store_Sales-Dashboard/assets/140932670/28156af7-028b-4a9d-9da3-22a6d2eb4c07
+
 ## Screenshot of the Analysis :-
 ![Screenshot 2024-02-10 011842](https://github.com/MyProjects-5/Sales_Dashboard/assets/140932670/44b7a8d9-3292-4309-8548-53fef23ff761)
 ![Screenshot 2024-02-10 012033](https://github.com/MyProjects-5/Sales_Dashboard/assets/140932670/59cca6e5-2cf3-479d-b5d7-8171180685a3)
